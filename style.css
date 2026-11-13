@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  background: #00ffff;
+}
+
+h1 {
+  color: cyan;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 6px;
+}
